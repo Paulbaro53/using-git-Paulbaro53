@@ -13,4 +13,4 @@ __This is italicized text__
 
 **I can use bold and __italicized__ text**
 
-![This image is a banana](https://www.google.com/imgres?imgurl=https%3A%2F%2Fth-thumbnailer.cdn-si-edu.com%2F4Nq8HbTKgX6djk07DqHqRsRuFq0%3D%2F1000x750%2Ffilters%3Ano_upscale()%2Fhttps%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2Fd5%2F24%2Fd5243019-e0fc-4b3c-8cdb-48e22f38bff2%2Fistock-183380744.jpg&tbnid=2F0QXu9YR6lh8M&vet=12ahUKEwjTv8ez25OBAxUXN1kFHa-bBZIQMygAegQIARBq..i&imgrefurl=https%3A%2F%2Fwww.smithsonianmag.com%2Fscience-nature%2Fbuilding-a-better-banana-70543194%2F&docid=iBhRaL7m-KGeNM&w=1000&h=750&q=banana&safe=active&ved=2ahUKEwjTv8ez25OBAxUXN1kFHa-bBZIQMygAegQIARBq)
+![This image is a banana](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8a%2FBanana-Single.jpg%2F800px-Banana-Single.jpg&tbnid=rI-BKbV_jy8W9M&vet=12ahUKEwjczsL625OBAxVaJGIAHeG1BiQQMygEegQIARBz..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBanana_equivalent_dose&docid=OxNQT_ny0cBCbM&w=800&h=705&q=banana&safe=active&ved=2ahUKEwjczsL625OBAxVaJGIAHeG1BiQQMygEegQIARBz)
